@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: vlad
- * Date: 05.04.18
- * Time: 14:58
- */
+
 require_once($_SERVER['DOCUMENT_ROOT'] . '/lib/phpquery/phpQuery.php');
 require_once($_SERVER['DOCUMENT_ROOT'] . '/lib/classes/parser.php');
 

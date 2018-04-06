@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: vlad
- * Date: 05.04.18
- * Time: 14:28
- */
+
 class Parser
 {
     public $arLinks;
